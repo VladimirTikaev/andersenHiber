@@ -8,6 +8,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
+        //some comment for test
         MyUser user = new MyUser("Vladimir", "Tikaev");
         MyUser user1 = new MyUser("Igor", "Vorobev");
         MyUserService service = new MyUserService();
